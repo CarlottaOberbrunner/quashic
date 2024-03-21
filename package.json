@@ -1,0 +1,21 @@
+{
+  "name": "quashic",
+  "version": "1.0.0",
+  "description": "Copy stuff into clipboard using JS with fallbacks",
+  "main": "index.js",
+  "keywords": [
+    "clipboard",
+    "copy",
+    "voluptatum"
+  ],
+  "author": "HunterMills",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlottaOberbrunner/quashic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CarlottaOberbrunner/quashic.git/issues"
+  },
+  "homepage": "https://github.com/CarlottaOberbrunner/quashic.git"
+}
